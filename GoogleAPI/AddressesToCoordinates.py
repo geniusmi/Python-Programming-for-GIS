@@ -15,6 +15,7 @@ addresses = [
 '1235 N. Brookhaven Cir. NE, Atlanta, GA  30319',
 '3032 Knox Ave., Atlanta, GA  30319',
 '6257 Magnolia Ridge, Atlanta, GA  30087',
+'1000 Northside DR NW, Atlanta, GA 30318',
 'Georgia Tech',
 'Georgia Tech College of Design',
 'Georgia Tech College of Architecture',
