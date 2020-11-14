@@ -1,0 +1,7 @@
+  projection utm
+  units meters
+  zone 16
+  datum nad83
+  units meters
+  spheroid grs80
+  parameters
